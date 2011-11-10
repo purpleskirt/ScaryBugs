@@ -1,0 +1,262 @@
+TScaryBugs
+v7
+r0
+t342344139.151811
+cCheck dependencies
+cProcessInfoPlistFile /Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app/Info.plist ScaryBugs-Info.plist
+cCompileXIB /Users/patchuser/Documents/Projects/ScaryBugs/MainWindow.xib
+cCompileXIB /Users/patchuser/Documents/Projects/ScaryBugs/RootViewController.xib
+cProcessPCH /var/folders/B0/B0xVEhLnGfKbpMbV4nSP3k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScaryBugs_Prefix-fusxgdksdatebuefylrqavntwgtg/ScaryBugs_Prefix.pch.gch ScaryBugs_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/Objects-normal/i386/main.o /Users/patchuser/Documents/Projects/ScaryBugs/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/Objects-normal/i386/ScaryBugsAppDelegate.o /Users/patchuser/Documents/Projects/ScaryBugs/Classes/ScaryBugsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/Objects-normal/i386/RootViewController.o /Users/patchuser/Documents/Projects/ScaryBugs/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app/ScaryBugs normal i386
+cGenerateDSYMFile /Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app.dSYM /Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app/ScaryBugs
+cTouch /Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Users/patchuser/Documents/Projects/ScaryBugs/Classes/RootViewController.h
+c000000004EB789F800000000000000E3
+t1320651256
+s227
+i<UIKit/UIKit.h>
+
+N/Users/patchuser/Documents/Projects/ScaryBugs/Classes/RootViewController.m
+c000000004EB789F800000000000010BB
+t1320651256
+s4283
+i"RootViewController.h"
+
+N/Users/patchuser/Documents/Projects/ScaryBugs/Classes/ScaryBugsAppDelegate.h
+c000000004EB789F800000000000001CF
+t1320651256
+s463
+i<UIKit/UIKit.h>
+
+N/Users/patchuser/Documents/Projects/ScaryBugs/Classes/ScaryBugsAppDelegate.m
+c000000004EB789F80000000000000ABD
+t1320651256
+s2749
+i"ScaryBugsAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/patchuser/Documents/Projects/ScaryBugs/MainWindow.xib
+c000000004EB789F80000000000005FFC
+t1320651256
+s24572
+
+N/Users/patchuser/Documents/Projects/ScaryBugs/RootViewController.xib
+c000000004EB789F80000000000004454
+t1320651256
+s17492
+
+N/Users/patchuser/Documents/Projects/ScaryBugs/ScaryBugs_Prefix.pch
+c000000004EB789F80000000000000144
+t1320651256
+s324
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app
+t1320651339
+s238
+
+N/Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app.dSYM
+t1320651339
+s102
+
+N/Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app/Info.plist
+t1320651335
+s599
+
+N/Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app/MainWindow.nib
+t1320651336
+s2458
+
+N/Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app/PkgInfo
+t1320651335
+s8
+
+N/Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app/RootViewController.nib
+t1320651336
+s1518
+
+N/Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app/ScaryBugs
+t1320651338
+s18112
+
+N/Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/Objects-normal/i386/RootViewController.o
+t1320651338
+s41620
+
+N/Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/Objects-normal/i386/ScaryBugs.LinkFileList
+c000000004EB78A4700000000000001AD
+t1320651335
+s429
+
+N/Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/Objects-normal/i386/ScaryBugsAppDelegate.o
+t1320651338
+s53144
+
+N/Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/Objects-normal/i386/main.o
+t1320651338
+s6324
+
+N/Users/patchuser/Documents/Projects/ScaryBugs/main.m
+c000000004EB789F80000000000000161
+t1320651256
+s353
+i<UIKit/UIKit.h>
+
+N/var/folders/B0/B0xVEhLnGfKbpMbV4nSP3k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScaryBugs_Prefix-fusxgdksdatebuefylrqavntwgtg/ScaryBugs_Prefix.pch.gch
+t1320651338
+s15814064
+
+NScaryBugs-Info.plist
+c000000004EB789F8000000000000038D
+t1320651256
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies342344135#342344135#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/Objects-normal/i386/RootViewController.o /Users/patchuser/Documents/Projects/ScaryBugs/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342344138.794452
+e342344138.898618
+r1
+xCompileC
+xbuild/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/Objects-normal/i386/RootViewController.o
+x/Users/patchuser/Documents/Projects/ScaryBugs/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/patchuser/Documents/Projects/ScaryBugs/Classes/RootViewController.m342344138#342344138#0(0"0(0#0#74"/Users/patchuser/Documents/Projects/ScaryBugs/Classes/RootViewController.m8615257632#2067"    cd /Users/patchuser/Documents/Projects/ScaryBugs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/ScaryBugs-generated-files.hmap -I/Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/ScaryBugs-own-target-headers.hmap -I/Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/ScaryBugs-all-target-headers.hmap -iquote /Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/ScaryBugs-project-headers.hmap -F/Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator -I/Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/include -I/Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/DerivedSources/i386 -I/Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/DerivedSources -include /var/folders/B0/B0xVEhLnGfKbpMbV4nSP3k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScaryBugs_Prefix-fusxgdksdatebuefylrqavntwgtg/ScaryBugs_Prefix.pch -c /Users/patchuser/Documents/Projects/ScaryBugs/Classes/RootViewController.m -o /Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/Objects-normal/i386/ScaryBugsAppDelegate.o /Users/patchuser/Documents/Projects/ScaryBugs/Classes/ScaryBugsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342344138.720635
+e342344138.827092
+r1
+xCompileC
+xbuild/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/Objects-normal/i386/ScaryBugsAppDelegate.o
+x/Users/patchuser/Documents/Projects/ScaryBugs/Classes/ScaryBugsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/patchuser/Documents/Projects/ScaryBugs/Classes/ScaryBugsAppDelegate.m342344138#342344138#0(0"0(0#0#76"/Users/patchuser/Documents/Projects/ScaryBugs/Classes/ScaryBugsAppDelegate.m8615698112#2071"    cd /Users/patchuser/Documents/Projects/ScaryBugs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/ScaryBugs-generated-files.hmap -I/Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/ScaryBugs-own-target-headers.hmap -I/Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/ScaryBugs-all-target-headers.hmap -iquote /Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/ScaryBugs-project-headers.hmap -F/Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator -I/Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/include -I/Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/DerivedSources/i386 -I/Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/DerivedSources -include /var/folders/B0/B0xVEhLnGfKbpMbV4nSP3k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScaryBugs_Prefix-fusxgdksdatebuefylrqavntwgtg/ScaryBugs_Prefix.pch -c /Users/patchuser/Documents/Projects/ScaryBugs/Classes/ScaryBugsAppDelegate.m -o /Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/Objects-normal/i386/ScaryBugsAppDelegate.o0#
+
+CCompileC build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/Objects-normal/i386/main.o /Users/patchuser/Documents/Projects/ScaryBugs/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342344138.718893
+e342344138.794355
+r1
+xCompileC
+xbuild/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/Objects-normal/i386/main.o
+x/Users/patchuser/Documents/Projects/ScaryBugs/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/patchuser/Documents/Projects/ScaryBugs/main.m342344138#342344138#0(0"0(0#0#52"/Users/patchuser/Documents/Projects/ScaryBugs/main.m8618725216#2031"    cd /Users/patchuser/Documents/Projects/ScaryBugs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/ScaryBugs-generated-files.hmap -I/Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/ScaryBugs-own-target-headers.hmap -I/Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/ScaryBugs-all-target-headers.hmap -iquote /Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/ScaryBugs-project-headers.hmap -F/Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator -I/Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/include -I/Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/DerivedSources/i386 -I/Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/DerivedSources -include /var/folders/B0/B0xVEhLnGfKbpMbV4nSP3k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScaryBugs_Prefix-fusxgdksdatebuefylrqavntwgtg/ScaryBugs_Prefix.pch -c /Users/patchuser/Documents/Projects/ScaryBugs/main.m -o /Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/patchuser/Documents/Projects/ScaryBugs/MainWindow.xib
+s342344135.589257
+e342344136.884914
+r1
+xCompileXIB
+x/Users/patchuser/Documents/Projects/ScaryBugs/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib342344135#342344136#0(0"0(0#0#60"/Users/patchuser/Documents/Projects/ScaryBugs/MainWindow.xib8603509216#593"    cd /Users/patchuser/Documents/Projects/ScaryBugs    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app/MainWindow.nib /Users/patchuser/Documents/Projects/ScaryBugs/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/patchuser/Documents/Projects/ScaryBugs/RootViewController.xib
+s342344135.652697
+e342344136.872597
+r1
+xCompileXIB
+x/Users/patchuser/Documents/Projects/ScaryBugs/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib342344135#342344136#0(0"0(0#0#68"/Users/patchuser/Documents/Projects/ScaryBugs/RootViewController.xib8603234688#609"    cd /Users/patchuser/Documents/Projects/ScaryBugs    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app/RootViewController.nib /Users/patchuser/Documents/Projects/ScaryBugs/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app.dSYM /Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app/ScaryBugs
+s342344139.015763
+e342344139.080677
+r1
+xGenerateDSYMFile
+x/Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app.dSYM
+x/Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app/ScaryBugs
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/ScaryBugs.app.dSYM build/Debug-iphonesimulator/ScaryBugs.app/ScaryBugs342344139#342344139#0(0"0(0#0#97"/Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app/ScaryBugs8602777248#410"    cd /Users/patchuser/Documents/Projects/ScaryBugs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app/ScaryBugs -o /Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app.dSYM0#
+
+CLd /Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app/ScaryBugs normal i386
+s342344138.898704
+e342344139.015675
+r1
+xLd
+x/Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app/ScaryBugs
+xnormal
+xi386
+lSLF07#2@102"Link /Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app/ScaryBugs342344138#342344139#0(0"0(0#0#0"8611523296#945"    cd /Users/patchuser/Documents/Projects/ScaryBugs    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator -F/Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator -filelist /Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/Objects-normal/i386/ScaryBugs.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app/ScaryBugs0#
+
+CProcessInfoPlistFile /Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app/Info.plist ScaryBugs-Info.plist
+s342344135.585600
+e342344135.589180
+r1
+xProcessInfoPlistFile
+x/Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app/Info.plist
+xScaryBugs-Info.plist
+lSLF07#2@28"Process ScaryBugs-Info.plist342344135#342344135#0(0"0(0#0#66"/Users/patchuser/Documents/Projects/ScaryBugs/ScaryBugs-Info.plist27584981513797680#506"    cd /Users/patchuser/Documents/Projects/ScaryBugs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ScaryBugs-Info.plist -genpkginfo /Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app/Info.plist0#
+
+CProcessPCH /var/folders/B0/B0xVEhLnGfKbpMbV4nSP3k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScaryBugs_Prefix-fusxgdksdatebuefylrqavntwgtg/ScaryBugs_Prefix.pch.gch ScaryBugs_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s342344136.885033
+e342344138.718441
+r1
+xProcessPCH
+x/var/folders/B0/B0xVEhLnGfKbpMbV4nSP3k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScaryBugs_Prefix-fusxgdksdatebuefylrqavntwgtg/ScaryBugs_Prefix.pch.gch
+xScaryBugs_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile ScaryBugs_Prefix.pch342344136#342344138#0(0"0(0#0#66"/Users/patchuser/Documents/Projects/ScaryBugs/ScaryBugs_Prefix.pch8616546144#1914"    cd /Users/patchuser/Documents/Projects/ScaryBugs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/ScaryBugs-generated-files.hmap -I/Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/ScaryBugs-own-target-headers.hmap -I/Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/ScaryBugs-all-target-headers.hmap -iquote /Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/ScaryBugs-project-headers.hmap -F/Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator -I/Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/include -I/Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/DerivedSources/i386 -I/Users/patchuser/Documents/Projects/ScaryBugs/build/ScaryBugs.build/Debug-iphonesimulator/ScaryBugs.build/DerivedSources -c /Users/patchuser/Documents/Projects/ScaryBugs/ScaryBugs_Prefix.pch -o /var/folders/B0/B0xVEhLnGfKbpMbV4nSP3k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ScaryBugs_Prefix-fusxgdksdatebuefylrqavntwgtg/ScaryBugs_Prefix.pch.gch0#
+
+CTouch /Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app
+s342344139.080756
+e342344139.151761
+r1
+xTouch
+x/Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app
+lSLF07#2@93"Touch /Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app342344139#342344139#0(0"0(0#0#0"8619062688#294"    cd /Users/patchuser/Documents/Projects/ScaryBugs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/patchuser/Documents/Projects/ScaryBugs/build/Debug-iphonesimulator/ScaryBugs.app0#
+

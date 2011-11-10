@@ -1,0 +1,9 @@
+/Users/patchuser/Documents/Projects/ScaryBugs/ScaryBugData.m:12: error: no declaration of property 'title' found in the interface
+/Users/patchuser/Documents/Projects/ScaryBugs/ScaryBugData.m:13: error: no declaration of property 'rating' found in the interface
+/Users/patchuser/Documents/Projects/ScaryBugs/ScaryBugData.m: In function '-[ScaryBugData initWithTitle:rating:]':
+/Users/patchuser/Documents/Projects/ScaryBugs/ScaryBugData.m:17: error: '_title' undeclared (first use in this function)
+/Users/patchuser/Documents/Projects/ScaryBugs/ScaryBugData.m:17: error: (Each undeclared identifier is reported only once
+/Users/patchuser/Documents/Projects/ScaryBugs/ScaryBugData.m:17: error: for each function it appears in.)
+/Users/patchuser/Documents/Projects/ScaryBugs/ScaryBugData.m:18: error: '_rating' undeclared (first use in this function)
+/Users/patchuser/Documents/Projects/ScaryBugs/ScaryBugData.m: In function '-[ScaryBugData dealloc]':
+/Users/patchuser/Documents/Projects/ScaryBugs/ScaryBugData.m:24: error: '_title' undeclared (first use in this function)
