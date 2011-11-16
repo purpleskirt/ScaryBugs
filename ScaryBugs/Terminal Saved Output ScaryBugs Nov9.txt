@@ -1,0 +1,62 @@
+Last login: Wed Nov  9 01:19:15 on console
+206:~ patchuser$ cd ~/.ssh
+-bash: cd: /Users/patchuser/.ssh: No such file or directory
+206:~ patchuser$ ssh-keygen -t rsa -C "woaixie@gmail.com"
+Generating public/private rsa key pair.
+Enter file in which to save the key (/Users/patchuser/.ssh/id_rsa): 
+Created directory '/Users/patchuser/.ssh'.
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /Users/patchuser/.ssh/id_rsa.
+Your public key has been saved in /Users/patchuser/.ssh/id_rsa.pub.
+The key fingerprint is:
+22:66:5b:cd:d2:1f:28:73:67:08:68:ab:6b:37:91:8c woaixie@gmail.com
+The key's randomart image is:
++--[ RSA 2048]----+
+|                 |
+|     .           |
+|    o .          |
+|   . . = o       |
+|   o=.* S +      |
+|  E+++ * + .     |
+|  . ..    .      |
+|  ..o            |
+| ... .           |
++-----------------+
+206:~ patchuser$ pbcopy < ~/.ssh/id_rsa.pub
+206:~ patchuser$ ssh -T git@github.com
+The authenticity of host 'github.com (207.97.227.239)' can't be established.
+RSA key fingerprint is 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added 'github.com,207.97.227.239' (RSA) to the list of known hosts.
+Identity added: /Users/patchuser/.ssh/id_rsa (/Users/patchuser/.ssh/id_rsa)
+Hi purpleskirt! You've successfully authenticated, but GitHub does not provide shell access.
+206:~ patchuser$ git config --global purpleskirt "Yu Jiaen"
+error: key does not contain a section: purpleskirt
+206:~ patchuser$ git config --global purpleskirt "Yu Jiaen"
+error: key does not contain a section: purpleskirt
+206:~ patchuser$ git config --global user.name "Yu Jiaen"
+206:~ patchuser$ git config --global user.email "woaixie@gmail.com"
+206:~ patchuser$ git config --global github.user purpleskirt
+206:~ patchuser$ git config --global github.token 217c168ce0a91a305d4b5a3c95d56f37
+206:~ patchuser$ mkdir ScaryBugs
+206:~ patchuser$ cd ScaryBugs
+206:ScaryBugs patchuser$ git init
+Initialized empty Git repository in /Users/patchuser/ScaryBugs/.git/
+206:ScaryBugs patchuser$ touch README
+206:ScaryBugs patchuser$ git add README
+206:ScaryBugs patchuser$ git commit -m 'first commit'
+[master (root-commit) 5583d56] first commit
+ 0 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 README
+206:ScaryBugs patchuser$ git remote add origin git@github.com:purpleskirt/ScaryBugs.git
+206:ScaryBugs patchuser$ git push -u origin master
+Counting objects: 3, done.
+Writing objects: 100% (3/3), 207 bytes, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To git@github.com:purpleskirt/ScaryBugs.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+206:ScaryBugs patchuser$ new branch
+-bash: new: command not found
+206:ScaryBugs patchuser$ 

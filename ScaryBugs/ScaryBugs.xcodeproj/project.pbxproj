@@ -39,6 +39,8 @@
 		AF835BCF146A2409004DC58E /* UIViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AF835BCE146A2409004DC58E /* UIViewController.m */; };
 		AF835BD4146A317F004DC58E /* EditBugViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AF835BD2146A317F004DC58E /* EditBugViewController.xib */; };
 		AF835BEC146A4E07004DC58E /* UIImageExtras.m in Sources */ = {isa = PBXBuildFile; fileRef = AF835BEB146A4E07004DC58E /* UIImageExtras.m */; };
+		AFAE23131470E36800335BF6 /* Abugslifelogo.gif in Resources */ = {isa = PBXBuildFile; fileRef = AFAE23121470E36800335BF6 /* Abugslifelogo.gif */; };
+		AFAE23281470E69E00335BF6 /* port.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAE23271470E69E00335BF6 /* port.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -85,6 +87,8 @@
 		AF835BD2146A317F004DC58E /* EditBugViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = EditBugViewController.xib; path = ../EditBugViewController.xib; sourceTree = "<group>"; };
 		AF835BEA146A4E07004DC58E /* UIImageExtras.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIImageExtras.h; sourceTree = "<group>"; };
 		AF835BEB146A4E07004DC58E /* UIImageExtras.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIImageExtras.m; sourceTree = "<group>"; };
+		AFAE23121470E36800335BF6 /* Abugslifelogo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Abugslifelogo.gif; sourceTree = "<group>"; };
+		AFAE23271470E69E00335BF6 /* port.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = port.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +131,7 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				AFAE2385147366B500335BF6 /* View Based */,
 				AF835BC91469AFDC004DC58E /* Helpers */,
 				AF098FEF1467D189007CB71E /* Views */,
 				AF098FBB1467C342007CB71E /* Model */,
@@ -151,6 +156,8 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				AFAE23271470E69E00335BF6 /* port.png */,
+				AFAE23121470E36800335BF6 /* Abugslifelogo.gif */,
 				AF835BAC1469AE5C004DC58E /* leafgrey40x35.png */,
 				AF835BAD1469AE5C004DC58E /* leafgrey.png */,
 				AF835BAE1469AE5C004DC58E /* leafgreen40x35.png */,
@@ -214,6 +221,13 @@
 				AF835BEB146A4E07004DC58E /* UIImageExtras.m */,
 			);
 			name = Helpers;
+			sourceTree = "<group>";
+		};
+		AFAE2385147366B500335BF6 /* View Based */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "View Based";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -286,6 +300,8 @@
 				AF835BB61469AE5C004DC58E /* leafdark40x35.png in Resources */,
 				AF835BB71469AE5C004DC58E /* leafdark.png in Resources */,
 				AF835BD4146A317F004DC58E /* EditBugViewController.xib in Resources */,
+				AFAE23131470E36800335BF6 /* Abugslifelogo.gif in Resources */,
+				AFAE23281470E69E00335BF6 /* port.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
